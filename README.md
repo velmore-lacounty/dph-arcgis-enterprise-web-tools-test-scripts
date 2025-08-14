@@ -2,16 +2,16 @@
 Code used for testing publication of ArcGIS script tools to the DPH ArcGIS Enterprise Portal as web tools/geoprocessing services.
 
 ## Contents
-- WebToolsTest.atbx
+- <b>WebToolsTest.atbx</b><br>
   An ArcGIS Pro Toolbox containing 3 script tools used for testing/troubleshooting the publication of web tools.
   All three script tools run successfully in ArcGIS Pro, but fail during publication as web tools.
   
-- webToolsToolboxTest.pyt
+- <b>webToolsToolboxTest.pyt</b><br>
   An ArcGIS Pro Python Toolbox containing one tool used for testing/troubleshooting the publication of web tools.
   Tool runs successfully in ArcGIS Pro, but fails during publication as a web tool
   
-- webToolsToolboxTest.pyt.xml
+- <b>webToolsToolboxTest.pyt.xml</b><br>
   Metadata associated with the Python toolbox
   
-- webToolsToolboxTest.CapitalizeTool.pyt
+- <b>webToolsToolboxTest.CapitalizeTool.pyt</b><br>
   Metadata associated with the Python toolbox tool
